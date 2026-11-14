@@ -119,6 +119,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[E2B](https://github.com/e2b-dev/mcp-server)** - Run code in secure sandboxes hosted by [E2B](https://e2b.dev)
 - **[ECharts](https://github.com/hustcc/mcp-echarts)** - Generate visual charts using [ECharts](https://echarts.apache.org) with AI MCP dynamically, used for chart generation and data analysis.
 - **[EdgeOne Pages MCP](https://github.com/TencentEdgeOne/edgeone-pages-mcp)** - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
+- **[EDNA Engine](https://github.com/sebklaey/edna-mcp-server)** - On-device behavioral-biometric human sensing for AI: 16 channels (keystroke timing, pointer curvature, scroll pauses, device motion, typing bursts) scored locally into a live human-confidence vector; MCP tools for human proof, signal vector and human context. Zero raw biometrics leave the device — hash patterns only. Hosted endpoint: https://openos.space/mcp
 - **[EduBase](https://github.com/EduBase/MCP)** - Interact with [EduBase](https://www.edubase.net), a comprehensive e-learning platform with advanced quizzing, exam management, and content organization capabilities
 - **[eSignatures](https://github.com/esignaturescom/mcp-server-esignatures)** - Contract and template management for drafting, reviewing, and sending binding contracts.
 - **[ELEMENT.FM](https://gitlab.com/elementfm/mcp)** - Create and publish unlimited podcast shows and episodes with [ELEMENT.FM](https://element.fm)
